@@ -1,7 +1,7 @@
 # data
 Bootcamp Projects
 
-Files uploaded in this repo are projects from my Data Analytics Bootcamp Cohort 8 in Eskwelabs
+Files uploaded are projects from my Data Analytics Bootcamp Cohort 8 in Eskwelabs
 
 Sprint 1 - Our assigned country is Myanmar and the dataset used is CO2 Emission in SEA
 
